@@ -2,7 +2,227 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="974a9a1a-bf64-4f2b-9d30-c98afbcbdb6e" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\application\bootstrap.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\utf8.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\validate.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\cookie.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\request\exception.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\classes\security.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\views\kohana\generate_logo.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\validate\exception.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\utf8\substr_replace.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\i18n.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\utf8\strtolower.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\cookie.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\utf8\strpos.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\url.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\classes\session.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\base.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\utf8\ord.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\classes\profiler.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\view.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\classes\route.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\classes\fragment.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\modules\unittest\tests.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\modules\unittest\init.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\i18n\es.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\date.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\config\session.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\utf8\str_split.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\utf8\rtrim.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\config\encrypt.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\classes\validate\exception.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\inflector.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\views\profiler\style.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\application\logs\2010\09\22.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\controller\rest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\utf8\strrev.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\controller\template.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\utf8\strtoupper.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\request.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\utf8.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\core.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\modules\image\README.markdown" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\session.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\config\user_agents.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\controller.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\utf8\substr.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\modules\userguide\init.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\classes\file.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\modules\userguide\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\request.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\session\cookie.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\utf8\to_unicode.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\log.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\utf8\trim.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\classes\upload.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\controller.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\classes\model.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\validate.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\i18n\es.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\utf8\strrpos.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\i18n\en.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\profiler.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\config\encrypt.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\modules\pdo\classes\kohana\pdo.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\config\user_agents.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\views\kohana\generate_logo.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\utf8\strcasecmp.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\classes\request.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\html.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\date.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\utf8\rtrim.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\classes\remote.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\utf8\str_ireplace.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\utf8\substr_replace.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\application\xsl\admin\people.xsl" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\utf8\stristr.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\cli.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\log\writer.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\security.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\utf8\trim.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\application\classes\controller\admin\people.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\exception.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\classes\form.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\utf8\from_unicode.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\text.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\config\reader.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\upload.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\application\classes\model\people.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\i18n\en.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\utf8\strrpos.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\modules\cache\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\utf8\strcasecmp.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\views\kohana\logo.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\views\profiler\style.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\classes\url.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\modules\unittest\README.markdown" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\views\kohana\logo.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\utf8\strtolower.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\utf8\from_unicode.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\utf8\strlen.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\views\kohana\error.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\views\profiler\stats.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\session\native.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\utf8\transliterate_to_ascii.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\remote.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\config\mimes.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\utf8\str_pad.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\i18n.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\i18n\fr.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\feed.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\utf8\to_unicode.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\file.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\modules\auth\postgresql.sql" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\view.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.project" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\modules\codebench\init.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\utf8\strcspn.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\classes\kohana.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\cli.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\remote.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\utf8\transliterate_to_ascii.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\security.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\application\config\admin_menu_options.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\config\inflector.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\classes\i18n.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\classes\session\native.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\utf8\str_ireplace.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\example.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\config\credit_cards.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\upload.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\messages\validate.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\html.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\application\classes\model\person.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\fragment.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\classes\date.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\application\cache\a4\a4b50012e9a6c5200c40dc59b07a59c958d72207.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\utf8\str_split.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\utf8\strlen.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\view\exception.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\utf8\ucfirst.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\utf8\strcspn.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\modules\pdo\config\pdo.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\classes\text.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\controller\template.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\i18n\fr.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\arr.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\encrypt.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\application\classes\people.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\utf8\substr.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\classes\inflector.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\utf8\ucfirst.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\config\credit_cards.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\messages\validate.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\model.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\classes\arr.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\num.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\classes\view.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\session\cookie.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\route.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\file.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\session\native.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\classes\feed.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\classes\encrypt.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\profiler.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\route.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\arr.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\utf8\ltrim.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\log\syslog.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\application\logs\2010\09\20.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\application\logs\2010\09\19.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\utf8\strpos.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\classes\validate.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\config\inflector.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\config.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\encrypt.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\num.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\application\logs\2010\09\21.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\views\kohana\error.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\modules\oauth\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\classes\cookie.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\utf8\strrev.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\inflector.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\feed.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\utf8\ucwords.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\text.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\classes\controller.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\utf8\str_pad.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\utf8\ord.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\base.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\utf8\strspn.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\session.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\config\file.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\utf8\ucwords.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\classes\cli.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\log\file.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\classes\num.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\model.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\utf8\stristr.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\url.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\modules\pdo\classes\kohana\model.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\views\profiler\stats.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\modules\unittest\example.phpunit.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\config\session.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\config\mimes.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\controller\rest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\classes\html.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\classes\utf8.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\utf8\strspn.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\modules\pdo\classes\model.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\form.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\utf8\ltrim.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\kohana\fragment.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\validate\exception.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\system\utf8\strtoupper.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\system\classes\form.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\.fr-AEGX2u\kohana\modules\auth\mysql.sql" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Pontus\PhpstormProjects\patiens_git\patiens_git\application\bootstrap.php" afterPath="" />
     </list>
     <ignored path=".idea/workspace.xml" />
     <ignored path="patiens_git.iws" />
@@ -90,7 +310,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
-  <component name="PublishConfig">
+  <component name="PublishConfig" uploadOnCheckin="4d9a4412-d193-432d-a146-dcf0dc97b138">
     <servers>
       <server id="4d9a4412-d193-432d-a146-dcf0dc97b138">
         <serverdata>
@@ -100,6 +320,7 @@
         </serverdata>
       </server>
     </servers>
+    <option name="myUploadOnCheckinName" value="patiens" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PhpRunConfigurationType" factoryName="PHP">
@@ -151,16 +372,17 @@
     <frame x="-8" y="-8" width="1456" height="916" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32896462" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34960517" sideWeight="0.66186106" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34960517" sideWeight="0.66186106" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32896462" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32896462" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
